@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+body {
+    background-color:#181818;
+    color: white;
+    font-family: Raleway, sans-serif;
+}
+
+.userco{
+  color:rgb(230, 102, 102);
+}
+
+.my-card {
+    display: flex;
+    flex-direction: column;
+  }
+  
+ .like img {
+    cursor: pointer;
+    width: 27px;
+
+  }
+
+.edit {
+    cursor: pointer;
+  }
+
+.userco{
+  color:rgb(230, 102, 102);
+}
