@@ -37,9 +37,7 @@ Each post should include the username of the poster, the post content itself, th
     ````
     python -m pip install Django
     ````
-    ````
-    pip3 install markdown2
-    ````
+
 * In the root folder, execute 
     ````
     python manage.py runserver"
